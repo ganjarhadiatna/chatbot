@@ -1,0 +1,17 @@
+{
+    "name": "chatbot",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node .",
+        "exec": "echo server running ..."
+    },
+    "dependencies": {
+        "@line/bot-sdk": "^6.6.0",
+        "dotenv": "^6.2.0",
+        "express": "^4.16.4",
+        "node-wit": "^5.0.0",
+        "now-env": "^3.1.0",
+        "restify": "^8.1.0"
+    }
+}

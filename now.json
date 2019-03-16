@@ -1,0 +1,7 @@
+{
+    "env": {
+        "CHANNEL_ACCESS_TOKEN": "",
+        "CHANNEL_SECRET": "",
+        "PORT": ""
+    }
+}
